@@ -3,6 +3,8 @@ The code for this research examines the use and value of open hardware in academ
 
 Plots of findings are at this [public Google Drive link](https://docs.google.com/spreadsheets/d/1FXEIRlsCNr_2xBqnUEBjhIrs2sTX_XivQxlx7rRh9p0/edit?usp=sharing).
 
+Code to generate the findings are in the `src` folder in the Jupyter notebook `main.ipynb`.
+
 ## Results
 
 Open access journals (OA) are distinguished from non-open access journals (NA) by darker and lighter shades of color, respectively. 
